@@ -14,7 +14,7 @@ Aqui é instalado a interação do usuario com o site.
 
 ### Gif Site
 
-![Tela](https://eliezzerr.github.io/Projeto-drag-o/)
+[<img src="./Tela.gif">](https://eliezzerr.github.io/Projeto-drag-o/)
 
 
 
