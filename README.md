@@ -14,7 +14,7 @@ Aqui é instalado a interação do usuario com o site.
 
 ### Gif Site
 
-![Tela](https://github.com/user-attachments/assets/ed4f9f45-5efa-462a-b7da-668e4206dde9)
+![Tela](https://eliezzerr.github.io/Projeto-drag-o/)
 
 
 
