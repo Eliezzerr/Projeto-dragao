@@ -13,9 +13,6 @@ Aqui o site foi estilizado, juntando o HTML e o CSS3, foi incluso pasta como Est
 Aqui é instalado a interação do usuario com o site. 
 
 ### Gif Site
-![Tela](https://eliezzerr.github.io/Projeto-drag-o/)
-
-
 
 ![Tela](https://github.com/user-attachments/assets/ed4f9f45-5efa-462a-b7da-668e4206dde9)
 
