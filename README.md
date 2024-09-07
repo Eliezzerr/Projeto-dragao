@@ -1,5 +1,5 @@
 # Projeto do Dragão 
-Esse foi meu prieiro projeto, iniciado e concluido no projeto do 0 ao programador contratado, o mesmo descreve os dragões e seus monatadores.
+Esse foi meu prieiro projeto, iniciado e concluido no projeto do 0 ao programador contratado, o mesmo descreve os dragões e seus montadores.
 
 ## Tecnologias Usadas
 
