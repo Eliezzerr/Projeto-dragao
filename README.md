@@ -16,6 +16,7 @@ Aqui é instalado a interação do usuario com o site.
 
 [<img scr="./tela.gif" alt= tela iunicial do projeo>](https://eliezzerr.github.io/Projeto-drag-o/)
 
+![Tela](https://github.com/user-attachments/assets/ed4f9f45-5efa-462a-b7da-668e4206dde9)
 
 
 
