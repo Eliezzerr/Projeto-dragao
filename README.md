@@ -1,5 +1,9 @@
-# Projeto do Dragão 
+# Introdução
 Esse foi meu prieiro projeto, iniciado e concluido no projeto do 0 ao programador contratado, o mesmo descreve os dragões e seus montadores.
+
+## Projeto do Dragão
+
+[<img src="./Tela.gif">](https://eliezzerr.github.io/Projeto-drag-o/)
 
 ## Tecnologias Usadas
 
@@ -12,9 +16,7 @@ Aqui o site foi estilizado, juntando o HTML e o CSS3, foi incluso na pasta os Es
 ### JAVA
 Aqui é aplicado para usar a interação do usuário com o site. 
 
-### Gif Site
 
-[<img src="./Tela.gif">](https://eliezzerr.github.io/Projeto-drag-o/)
 
 
 
